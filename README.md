@@ -1,5 +1,21 @@
-# Vue 3 + Vite
+# 🍽️ Food Listing Menu App
 
-This template should help get you started developing with Vue 3 in Vite. The template uses Vue 3 `<script setup>` SFCs, check out the [script setup docs](https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup) to learn more.
+A food listing application built with **Vue.js**, **Tailwind CSS**, and **Vercel** for deployment. This project allows users to browse Indian food items, filter them by area, sort them alphabetically, and view details in a modal. Pagination is implemented for a smooth browsing experience.
 
-Learn more about IDE Support for Vue in the [Vue Docs Scaling up Guide](https://vuejs.org/guide/scaling-up/tooling.html#ide-support).
+---
+
+## 🚀 **Live Demo**
+🔗 [Deployed Link](https://manvendra-frontend-developer.vercel.app/)
+
+## 🎥 **Video Demonstration**
+📺 Watch the walkthrough of the project: [Video URL](https://www.loom.com/share/5a72c53b62e14362910b17442cfa4d6c?sid=2c7941c5-ea0d-4c42-b6f5-af8c914a6e5c)
+
+---
+
+## 🛠 **Getting Started**
+Follow these steps to run the project on your local machine.
+
+### **1️⃣ Clone the Repository**
+```sh
+git clone https://github.com/Manvendra2000/Manvendra-frontend-developer.git
+cd Manvendra-frontend-developer
