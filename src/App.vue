@@ -7,7 +7,7 @@
 </template>
 
 <script>
-import HomeView from "./views/HomeView.vue";
+import HomeView from "./Views/HomeView.vue";
 import Header from "./components/Header.vue";
 import Footer from "./components/Footer.vue";
 
