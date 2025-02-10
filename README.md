@@ -19,3 +19,13 @@ Follow these steps to run the project on your local machine.
 ```sh
 git clone https://github.com/Manvendra2000/Manvendra-frontend-developer.git
 cd Manvendra-frontend-developer
+```
+
+### **2️⃣ Install dependencies**
+```
+npm install
+```
+### **3️⃣ Run the application on Localhost**
+```
+npm run dev
+```
