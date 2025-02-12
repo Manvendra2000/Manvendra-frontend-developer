@@ -1,6 +1,6 @@
 <template>
     <div
-      class="bg-white p-4 rounded-lg shadow-md cursor-pointer transition-transform transform hover:scale-105"
+      class="food-item bg-white p-4 rounded-lg shadow-md cursor-pointer transition-transform transform hover:scale-105"
       @click="$emit('click')"
     >
       <img :src="food.strMealThumb" alt="Food Image" class="w-full h-40 object-cover rounded-lg" />
